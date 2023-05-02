@@ -46,7 +46,11 @@ function renderRamenInformation (ramen) {
     let displayRestaurant = document.querySelector(".restaurant")
     displayRestaurant.textContent = ramen.restaurant
 
-    
+    let displayRating = document.querySelector("#rating-display")
+    displayRating.textContent = ramen.rating
+
+    let displayComment = document.querySelector("#comment-display")
+    displayComment.textContent = ramen.comment
 
 }
 

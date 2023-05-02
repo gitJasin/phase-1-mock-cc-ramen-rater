@@ -41,11 +41,11 @@
       "comment": "Perfect for a cold night."
     },
     {
-      "name": "Jason's Best Ramen",
-      "restaurant": "Your Ramen",
-      "image": "https://amsterdamonline247.com/wp-content/uploads/2020/04/ramen-amsterdam.jpg",
-      "rating": "23",
-      "new-comment": "Yuuuuus!",
+      "name": "Curry Ramen",
+      "restaurant": "Koyo's Ramen Bar",
+      "image": "https://monkeyandmekitchenadventures.com/wp-content/uploads/2022/04/Thai-Red-Curry-Ramen-Noodle-Soup_06.jpg",
+      "rating": "8",
+      "comment": "Amazing Fusion",
       "id": 6
     }
   ]
